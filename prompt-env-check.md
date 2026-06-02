@@ -1,0 +1,1 @@
+cargo run -- phases/00-setup-and-tooling/01-dev-environment/code/main.rs
